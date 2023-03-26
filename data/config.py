@@ -1,4 +1,4 @@
-from environs import Envv
+from environs import Env
 
 # environs kutubxonasidan foydalanish
 env = Env()
