@@ -1,4 +1,4 @@
-from aiogram import types
+from aiogram import typess
 from aiogram.dispatcher.filters.builtin import CommandStart
 
 from loader import dp
